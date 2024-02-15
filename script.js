@@ -1,7 +1,7 @@
 function firstChar(text) {
 	let str = text.trim();    
     if(str.length) { return str[0];}
-    else return '\'\'' ; 
+    else return "\'\'"; 
 }
 
 // Do not change the code below
