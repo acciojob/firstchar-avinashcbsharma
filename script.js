@@ -1,5 +1,6 @@
 function firstChar(text) {
-  // your code here
+	let str = text.trim();
+	return str[0]; 
 }
 
 // Do not change the code below
